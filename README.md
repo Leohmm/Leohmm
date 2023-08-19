@@ -1,6 +1,9 @@
+
+### Hello!
+
 - 👋 Hi, I’m @Leohmm
 - 👀 I’m interested in programming and game design!
-- 🌱 Languages: C, C++, LD and ST
+- 🌱 Languages: C, C++, LD and ST; Learning Python and Java!
 - 📫 How to reach me: by email (leoheckmedeiros@gmail.com)
 
   Thanks for visiting! 🧐🥳
