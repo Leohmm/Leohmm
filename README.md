@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Leohmm
-- 👀 I’m interested in programming and design
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming and game design!
+- 🌱 Languages: C, C++, LD and ST
 - 📫 How to reach me: by email (leoheckmedeiros@gmail.com)
+
+  Thanks for visiting! 🧐🥳
 
 <!---
 Leohmm/Leohmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
